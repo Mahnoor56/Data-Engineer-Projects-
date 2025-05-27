@@ -7,7 +7,7 @@ Steps Involved:
 
 Data Ingestion (API to CSV):
 
-Fetch data from an external REST API.
+Fetch data from an external REST crickbuzz API.
 
 Convert and save the fetched data as a .csv file.
 
